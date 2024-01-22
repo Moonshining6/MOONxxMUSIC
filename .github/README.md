@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Moonshining6/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/Moonshining6/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Moonshining6/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/Moonshining6/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Moonshining6/AnonXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Moonshining6/MOONxxMUSIC/stargazers"><img src="https://img.shields.io/github/stars/Moonshining6/MOONxxMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Moonshining6/MOONxxMUSIC/network/members"> <img src="https://img.shields.io/github/forks/Moonshining6/MOONxxMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Moonshining6/MOONxxMUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/Moonshining6/AnonXMusic/commits/Moonshining6"> <img src="https://img.shields.io/github/last-commit/Moonshining6/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Moonshining6/MOONxxMUSIC/commits/Moonshining6"> <img src="https://img.shields.io/github/last-commit/Moonshining6/MOONxxMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -22,13 +22,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Moonshining6/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Moonshining6/MOONxxMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Moonshining6/AnonXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Moonshining6/MOONxxMUSIC/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -40,7 +40,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/Moonshining6/AnonXMusic && cd AnonXMusic`
+`git clone https://github.com/Moonshining6/MOONxxMUSIC && cd AnonXMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
